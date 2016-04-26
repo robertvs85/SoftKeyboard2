@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="4716392626193" >
+
+    <task
+        name="javac"
+        duration="10132" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1491" />
+    <task
+        name="verifier"
+        duration="263" />
+
+    <artifact
+        location="C:\Users\Xavi\AndroidStudioProjects\SoftKeyboard4\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="4716392626193" >
+        <artifact
+            location="C:\Users\Xavi\AndroidStudioProjects\SoftKeyboard4\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
